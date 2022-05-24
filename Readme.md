@@ -1,8 +1,7 @@
-## 📝 The Convolvulaceae Network Website
-[<img src="https://avatars1.githubusercontent.com/u/22077628?v=3&u=927102473ec4fcc03ac2f6200740a9faff91fd55&s=400" align="right" height="100">](http://ddcreationstudios.at/)
+# 📝 The Convolvulaceae Network Website
 
-# 🌐 Based on Homepage of FreeCodeCamp Vienna
-## FreeCodeCamp Vienna
+### 🌐 Based on Homepage of FreeCodeCamp Vienna
+### FreeCodeCamp Vienna
 
 <p align="center">
 <a href="https://github.com/FCCVienna/FCCVienna">FCC Vienna @Github</a>
